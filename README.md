@@ -1,2 +1,2 @@
 # SafeMessage
-An attempt at creating an end to end encryption messaging app in python
+An attempt at creating an end to end encrypted messaging app in python
